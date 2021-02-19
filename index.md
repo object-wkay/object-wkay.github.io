@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 不忘初心
 
 You can use the [editor on GitHub](https://github.com/wkay-coder/wkay-coder.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
